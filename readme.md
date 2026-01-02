@@ -6,6 +6,8 @@
 
 #### **Developed by GHGames.**
 
+#### Actually GHLyra is not open-sourced but you can download it here
+
 
 
 Legal Notice:
